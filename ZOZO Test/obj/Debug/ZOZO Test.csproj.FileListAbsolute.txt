@@ -1,0 +1,10 @@
+C:\Users\Amir\Source\repos\ZOZO Test\ZOZO Test\bin\Debug\ZOZO Test.exe.config
+C:\Users\Amir\Source\repos\ZOZO Test\ZOZO Test\bin\Debug\ZOZO Test.exe
+C:\Users\Amir\Source\repos\ZOZO Test\ZOZO Test\bin\Debug\ZOZO Test.pdb
+C:\Users\Amir\Source\repos\ZOZO Test\ZOZO Test\obj\Debug\ZOZO Test.csprojAssemblyReference.cache
+C:\Users\Amir\Source\repos\ZOZO Test\ZOZO Test\obj\Debug\ZOZO_Test.Form1.resources
+C:\Users\Amir\Source\repos\ZOZO Test\ZOZO Test\obj\Debug\ZOZO_Test.Properties.Resources.resources
+C:\Users\Amir\Source\repos\ZOZO Test\ZOZO Test\obj\Debug\ZOZO Test.csproj.GenerateResource.cache
+C:\Users\Amir\Source\repos\ZOZO Test\ZOZO Test\obj\Debug\ZOZO Test.csproj.CoreCompileInputs.cache
+C:\Users\Amir\Source\repos\ZOZO Test\ZOZO Test\obj\Debug\ZOZO Test.exe
+C:\Users\Amir\Source\repos\ZOZO Test\ZOZO Test\obj\Debug\ZOZO Test.pdb
